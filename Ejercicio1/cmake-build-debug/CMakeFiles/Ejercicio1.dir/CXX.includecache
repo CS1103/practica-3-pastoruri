@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rodrigo.cespedes/Desktop/Ejercicio1/main.cpp
+iostream
+-
+matriz.h
+C:/Users/rodrigo.cespedes/Desktop/Ejercicio1/matriz.h
+
+C:/Users/rodrigo.cespedes/Desktop/Ejercicio1/matriz.h
+vector
+-
+iomanip
+-
+
